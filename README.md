@@ -1,2 +1,2 @@
-# query-pdf-server
-Allows users to run queries against a pdf file.
+# node-boilerplate
+Node js setup wth Express, babel, es6 and different environments
