@@ -1,2 +1,2 @@
 # node-boilerplate
-Node js setup wth Express, babel, es6 and different environments
+This Git repository serves as a comprehensive starter template for Node.js applications using the Express framework, Babel for ECMAScript 6 (ES6) compatibility, and environment-specific scripts for development and production builds. Whether you are starting a new project or looking to enhance an existing one, this repository provides a solid foundation for building scalable and maintainable Node.js applications.
